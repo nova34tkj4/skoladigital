@@ -1,0 +1,4 @@
+[[rules]]
+description = "Generic AWS Access Key"
+regex = '''AKIA[0-9A-Z]{16}'''
+tags = ["aws"]
